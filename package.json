@@ -1,0 +1,28 @@
+{
+  "name": "nexus-ultra-platforms",
+  "version": "1.0.0",
+  "description": "Nexus Ultra Platforms - a full-stack website creation and management solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nisarllc206-sys/npm.git"
+  },
+  "keywords": [
+    "website-builder",
+    "flutter-web",
+    "firebase",
+    "clean-architecture"
+  ],
+  "author": "nisarllc206-sys",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "firebase": "^11.6.0"
+  },
+  "engines": {
+    "npm": ">=11.9.0",
+    "node": ">=24.0.0"
+  }
+}
